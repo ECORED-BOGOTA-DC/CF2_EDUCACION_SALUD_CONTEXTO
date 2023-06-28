@@ -2,14 +2,18 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 20%
+    right: 80%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    top: 5%
+    right: 50%
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 5%
+    right: 20%
 
 @keyframes float1
   0%
@@ -17,3 +21,55 @@
 
   100%
     transform: translateY(0px)
+
+.banner-principal__img
+  padding-bottom: 0px !important
+
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/img1.svg") !important
+
+.fa-info:before
+  color: white
+.titulo-principal.color-acento-contenido .titulo-principal__numero span
+  color: white
+
+.bloque-texto-a.color-acento-contenido
+  background-color: #6F88DA
+.bloque-texto-a.color-acento-contenido:before
+  background-color: #F6F6F6
+
+.bg
+  &-c1
+    background-image: url("../assets/curso/intro/img1.svg")
+    background-repeat: no-repeat
+    background-size: cover
+    border-radius: 15px
+    @media screen and ( max-width: $bp-max-lg )
+      background-image: url("../assets/curso/intro/img1m.svg")
+  &-c2
+    background-color: #E8EEF3
+  &-c3
+    background-image: url("../assets/curso/tema1/img3.svg")
+    background-repeat: no-repeat
+    background-size: cover
+  &-c4
+    background-color: #6F88DA
+    z-index: 1
+    height: 240px
+  &-c5
+    background-color: #4ADBD1
+    z-index: 1
+    height: 240px
+  &-c6
+    background-image: url(../assets/curso/tema1/img5.svg)
+    background-repeat: no-repeat
+    margin-inline: -3.2rem !important
+    background-size: cover
+
+.fig
+  &-p1
+    position: relative
+    left: 30%
+    top: 35%
+    z-index: 2
+    margin-bottom: -100px
