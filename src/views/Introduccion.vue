@@ -14,7 +14,7 @@
           .row.align-items-center
             .col-lg-4.mb-4.mb-lg-0
               figure
-                img(src='@/assets/curso/intro/img1.png', style="width: 450px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/intro/img1.png', style="width: 350px" ,alt='Texto que describa la imagen').m-auto
             .col-lg-8
               .row
                 .col-auto
