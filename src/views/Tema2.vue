@@ -156,7 +156,7 @@
               p.mb-0 Recuperar la memoria colectiva del  pueblo o comunidad  con respecto a las luchas y logros que han permitido el mejoramiento de sus condiciones de vida e incluso de aquellas creencias que han permitido dinamizar cambios en sus familias, grupos y comunidades;  se pueden incluir las luchas independentistas, las luchas de liberación, las luchas de autonomía, dependiendo de los pueblos;  se sugiere rescatar esas historias que implican no una ruptura, sino una continuidad de procesos libertarios y de transformaciones sociales.
     .row.mb-5
       .col-lg-6
-        .tarjeta-avatar-b.mb-5
+        .tarjeta-avatar-b.mb-4.mb-lg-0
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/tema2/img9.svg' alt='AvatarTop')
           .tarjeta.tarjeta--gris.shadow
