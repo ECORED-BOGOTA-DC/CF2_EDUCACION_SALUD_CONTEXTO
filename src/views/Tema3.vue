@@ -1226,9 +1226,9 @@
             caption.mt-3 Nota. Tomado del Fondo Colombia en Paz (2021).
             thead(style="background-color: #F0F3FA")
               tr
-                th NÚCLEO TEMÁTICO
-                th OBJETIVO ESPECÍFICO
-                th TEMAS
+                th Núcleo temático
+                th Objetivo específico
+                th Temas
             tbody
               tr
                 td(style="vertical-align: initial")
@@ -1283,10 +1283,10 @@
                 th(colspan="4") Desarrollo del núcleo temático Cuidado preconcepcional y la construcción social de feminidades y masculinidades para la garantía de los derechos sexuales y reproductivos
             tbody
               tr(style="background-color: #B3C1EF")
-                th MOMENTO DE FORMACIÓN PREVIO
-                th MOMENTO DE FORMACIÓN INICIAL
-                th MOMENTO DE FORMACIÓN CENTRAL
-                th MOMENTO DE FORMACIÓN FINAL O CIERRE
+                th Momento de formación previo
+                th Momento de formación inicial
+                th Momento de formación central
+                th Momento de formación final o cierre
               tr
                 td(style="vertical-align: initial")
                   .row
