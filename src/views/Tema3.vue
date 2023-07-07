@@ -2,17 +2,17 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 3
       h1 Premisas para la planeación de procesos y diseño de herramientas
     .row.align-items-center.mb-5
-      .col-lg-5.mb-4.mb-lg-0
+      .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema3/img1.png', style="width: 450px" ,alt='Texto que describa la imagen').m-auto
-      .col-lg-7
+      .col-lg-7(data-aos="fade-left")
         p.mb-0 Se parte de reconocer quiénes son los sujetos según el entorno o el momento de curso de vida (o en el caso de los procesos de educación para la salud de riesgo, considerando las características de los sujetos y lo propio de los riesgos que requieren ser acompañados). Esto permite ubicar unas propuestas de núcleos temáticos, un llamado a los  ejes dinamizadores transversales y, finalmente el establecimiento de acuerdos con los grupos o comunidades que permitan definir esos resultados que se quieren proponer vinculados a un ciclo o sesiones de encuentro.
-    .row.mb-5
+    .row.mb-5(data-aos="fade-down")
       .col-12.bg-c2
         .py-4.pe-4
           .row.align-items-center
@@ -21,23 +21,23 @@
                 img(src='@/assets/curso/tema1/img7.svg', style="width: 60px" ,alt='Texto que describa la imagen').m-auto
             .col
               p.mb-0 Ese primer momento de encuentro permite planear el proceso, las sesiones de EpS a desarrollar y  proponer algunas situaciones que se quieren reafirmar o aquellas donde se quiere cambiar la lógica de cuidado de sí mismo, del otro y del entorno; lo que permite ubicar la dinámica de trabajo, compromisos y derroteros.
-    .bloque-texto-a.color-acento-contenido.p-4.p-md-5.mb-5 
+    .bloque-texto-a.color-acento-contenido.p-4.p-md-5.mb-5(data-aos="fade-right")
       .row.m-0.align-items-center.justify-content-between
         .col-lg-8.mb-4.mb-lg-0
           .bloque-texto-a__texto.p-4
-            p De esta manera la EpS se plantea como un camino establecido de manera concertada, que permite reconocer a los sujetos, sus redes y vínculos, sus situaciones, sus derechos, sus prácticas de cuidado y su capacidad transformadora a partir de unos momentos de reflexión. De acuerdo con las definiciones de los resultados o los puntos de llegada en el proceso se podrá hacer uso de herramientas didácticas que permitan valorar la incorporación o resignificación de prácticas, la ampliación de contextos e información para la toma de decisiones y, finalmente los mecanismos para avanzar en la garantía de derechos.
+            p De esta manera, la EpS se plantea como un camino establecido de manera concertada, que permite reconocer a los sujetos, sus redes y vínculos, sus situaciones, sus derechos, sus prácticas de cuidado y su capacidad transformadora a partir de unos momentos de reflexión. De acuerdo con las definiciones de los resultados o los puntos de llegada en el proceso, se podrá hacer uso de herramientas didácticas que permitan valorar la incorporación o resignificación de prácticas, la ampliación de contextos e información para la toma de decisiones y, finalmente, los mecanismos para avanzar en la garantía de derechos.
         .col-lg-4
           figure
             img(src='@/assets/curso/tema3/img1.svg', style="width: 450px" ,alt='Texto que describa la imagen').m-auto
-    p.mb-5 De esta manera, se plantean esquemáticamente los siguientes momentos:
-    .row.align-items-center.mb-4
+    p.mb-5(data-aos="fade-down") De esta manera, se plantean esquemáticamente los siguientes momentos:
+    .row.align-items-center.mb-4(data-aos="fade-right")
       .col-auto.pe-0
         figure
           img(src='@/assets/curso/tema3/img2.svg', style="width: 40px" ,alt='Texto que describa la imagen').m-auto
       .col-auto.bg-c18
         p.mb-0 #[b Planeación y concertación del ciclo de educación]
-    p.mb-5 Para la salud con los grupos y colectivos participantes a partir del reconocimiento de los sujetos y su contexto, intereses, necesidades y expectativas de los sujetos que harán parte de este proceso; tener presente los cuidadores - si los hay-; si hay presencia de grupos étnicos y comunidades campesinas; en los casos de abordaje en entornos y en la EpS dirigida a las familias:
-    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
+    p.mb-5(data-aos="fade-down") Para la salud con los grupos y colectivos participantes a partir del reconocimiento de los sujetos y su contexto, intereses, necesidades y expectativas de los sujetos que harán parte de este proceso; tener presente los cuidadores - si los hay-; si hay presencia de grupos étnicos y comunidades campesinas; en los casos de abordaje en entornos y en la EpS dirigida a las familias:
+    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="fade-left")
       .tarjeta.color-acento-botones-c1.p-4
         .row.justify-content-center.mb-3
           .col-8
@@ -73,14 +73,14 @@
           .col-8
             img(src='@/assets/curso/tema3/img9.svg' alt='AvatarTop')
         p.text-center Reconocimiento de los puntos de llegada o los resultados esperados del proceso.
-    .row.align-items-center.mb-4
+    .row.align-items-center.mb-4(data-aos="fade-down")
       .col-auto.pe-0
         figure
           img(src='@/assets/curso/tema3/img2.svg', style="width: 40px" ,alt='Texto que describa la imagen').m-auto
       .col-auto.bg-c18
         p.mb-0 #[b Implementación de las sesiones]
-    p.mb-5 Requiere de un proceso de alistamiento por parte del facilitador que acompaña la sesión, este cuenta con diferentes momentos que puede revisar a continuación:
-    .tarjeta.bg-c10.mb-5
+    p.mb-5(data-aos="fade-right") Requiere de un proceso de alistamiento por parte del facilitador que acompaña la sesión, este cuenta con diferentes momentos que puede revisar a continuación:
+    .tarjeta.bg-c10.mb-5(data-aos="fade-left")
       .p-4
         SlyderA(tipo="b")
           .row.justify-content-center.align-items-center
@@ -112,7 +112,7 @@
                               figure
                                 img(src='@/assets/curso/tema1/img7.svg', style="width: 60px" ,alt='Texto que describa la imagen').m-auto
                             .col
-                              p.mb-0 La motivación para la participación social parte del reconocimiento de necesidades y problemáticas que afectan la salud en el momento de curso de vida y en relación a las redes de apoyo de ese grupo poblacional. Parte por valorar y reconocer prácticas y saberes frente al cuidado; acciones comunitarias e interacción con agentes de la medicina tradicional , oferta institucional, brechas y dificultades, a través de herramientas didácticas.
+                              p.mb-0 La motivación para la participación social parte del reconocimiento de necesidades y problemáticas que afectan la salud en el momento de curso de vida y en relación a las redes de apoyo de ese grupo poblacional. Parte por valorar y reconocer prácticas y saberes frente al cuidado; acciones comunitarias e interacción con agentes de la medicina tradicional, oferta institucional, brechas y dificultades, a través de herramientas didácticas.
           .row.justify-content-center.align-items-center
             .col-lg-5.mb-4.mb-lg-0
               figure
@@ -150,13 +150,13 @@
                         i.fas.fa-check-circle(style="color: #4ADBD1")
                         |
                         p.mb-0 Definición de rol de cada uno y los miembros de la familia / comunidad en las prácticas concertadas.
-    .row.align-items-center.mb-4
+    .row.align-items-center.mb-4(data-aos="fade-down")
       .col-auto.pe-0
         figure
           img(src='@/assets/curso/tema3/img2.svg', style="width: 40px" ,alt='Texto que describa la imagen').m-auto
       .col-auto.bg-c18
         p.mb-0 #[b Evaluación de los resultados o los puntos de llegada]
-    .row
+    .row(data-aos="fade-left")
       .col-12.bg-c1.shadow.mb-5
         .px-4.pt-4.pb-4.pb-lg-0
           .row.align-items-center
@@ -170,10 +170,10 @@
                     img(src='@/assets/curso/intro/img2.svg', style="width: 40px" ,alt='Texto que describa la imagen')
                 .col
                   p.mb-0 Implica retomar en una última sesión los acuerdos en términos de prácticas de cuidado a asumir, acciones colectivas o comunitarias, mecanismos a activar para avanzar en la garantía del derecho a la salud, la participación social en salud, entre otros. A partir de esta construcción conjunta pueden consolidarse itinerarios de salud, decálogos, rutas del cuidado u otras didácticas, que permitan tener presente las prácticas validadas y el papel transformador de los participantes, como resultado de la construcción colectiva y las reflexiones dinamizadas.
-    AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+    AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-up")
       .row(titulo="Núcleos temáticos base para el proceso de educación para la salud")
         .col-12
-          p.mb-5 Para la definición de núcleos temáticos o temas generadores se debe considerar moldear referencias que puedan mantener el centro en los sujetos y que permitan un abordaje integral de los sujetos, articulando resultados en términos de capacidades con temas priorizados de acuerdo con cada momento del curso de vida, así como en los diferentes entornos, incorporando aquellos que sean relevantes para las personas y considerando la relación de algunas situaciones con ejes dinamizadores transversales.  A continuación se presentan en qué consiste cada uno de estos ejes:
+          p.mb-5 Para la definición de núcleos temáticos o temas generadores se debe considerar moldear referencias que puedan mantener el centro en los sujetos y que permitan un abordaje integral de los sujetos, articulando resultados en términos de capacidades, con temas priorizados de acuerdo con cada momento del curso de vida, así como en los diferentes entornos, incorporando aquellos que sean relevantes para las personas y considerando la relación de algunas situaciones con ejes dinamizadores transversales.  A continuación se presentan en qué consiste cada uno de estos ejes:
           figure.mb-5
             img(src='@/assets/curso/tema3/img21.svg', style="width: 1000px" ,alt='Texto que describa la imagen').m-auto
           ul.lista-ul--separador.mb-4
@@ -272,10 +272,10 @@
     .titulo-segundo.color-acento-contenido
       h2 3.1 Planteamiento de educación grupal por curso de vida en la primera infancia
     .row.align-items-center.mb-5
-      .col-lg-4.mb-4.mb-lg-0
+      .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema3/img3.png', style="width: 450px" ,alt='Texto que describa la imagen').m-auto
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         p Tiene como objetivo acompañar los procesos de desarrollo y potenciar las capacidades de los sujetos en resonancia con su momento vital. Está definida en (2) ciclos por momento de curso de vida; donde cada ciclo tendrá mínimo (3) sesiones y máximo (6) sesiones con una duración entre 90 y 120 minutos, desarrollando cada ciclo en un espacio de tiempo entre  (1) y  (3) meses.
         .row
           .col-12.bg-c2
@@ -286,12 +286,11 @@
                     img(src='@/assets/curso/tema1/img7.svg', style="width: 60px" ,alt='Texto que describa la imagen').m-auto
                 .col
                   p.mb-0 Consideraciones en relación con los sujetos y objetivos de la EpS grupal por curso de vida, la Resolución 3280 de 2018, así como los documentos de la Política de Infancia y Adolescencia reseñan algunas características de los procesos de desarrollo y salud por momentos de curso de vida, que se consideran clave para los procesos de educación para la salud, como se muestran en la siguiente tabla:
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-up")
       .col-lg-10
         .titulo-sexto.color-acento-contenido
-          p.mb-0 #[b Tabla 1]
-          p.mb-0 Procesos de EpS por momento del curso de vida
-        .tabla-a.color-acento-contenido.mb-5 
+          p.mb-0 #[b Tabla 1]. Procesos de EpS por momento del curso de vida
+        .tabla-a.color-acento-contenido
           table
             caption.mt-3 Nota. Adaptado a partir de lo definido en la Resolución 3280 de 2018.
             thead
@@ -300,15 +299,15 @@
                 th Definición y elementos a considerar
                 th Objetivos de los procesos de EpS por momento del curso de vida
             tbody
-              tr(style="vertical-align: initial")
-                td Primera infancia
-                td(style="background-color: #F0F3FA") La primera infancia cobija desde la gestación hasta los 5 años de vida. Las niñas y los niños de primera infancia son seres sociales, diversos y singulares, que interactúan con el mundo y despliegan todas sus potencialidades, movidos por su deseo de expresarse, conocer, explorar, experimentar, descubrir, moverse y comprender quiénes son, de qué son capaces, cómo funcionan las cosas que les rodean, cómo lo pueden transformar, cómo se convive con otros seres humanos, cómo se comunican. En medio de estas interacciones tiene lugar su desarrollo. Desde esta comprensión es fundamental el apoyo y promoción de este proceso de desarrollo a nivel físico, social, afectivo, del lenguaje y del pensamiento; a partir de un cuidado cariñoso y sensible a las necesidades del niño o niña, conociendo y acompañando el proceso de desarrollo y protegiéndolo ante los riesgos.
-                td(rowspan="2") Acompañar a padres y cuidadores en el fortalecimiento de sus capacidades para la crianza, el cuidado de la salud y protección que promuevan la salud y el desarrollo humano integral de niños, mediante un proceso de construcción colectiva de saberes y prácticas para el cuidado y protección propios, de sus familias y de los entornos.
               tr
-                td Infancia
+                td(style="vertical-align: initial") Primera infancia
+                td(style="background-color: #F0F3FA") La primera infancia cobija desde la gestación hasta los 5 años de vida. Las niñas y los niños de primera infancia son seres sociales, diversos y singulares, que interactúan con el mundo y despliegan todas sus potencialidades, movidos por su deseo de expresarse, conocer, explorar, experimentar, descubrir, moverse y comprender quiénes son, de qué son capaces, cómo funcionan las cosas que les rodean, cómo lo pueden transformar, cómo se convive con otros seres humanos, cómo se comunican. En medio de estas interacciones tiene lugar su desarrollo. Desde esta comprensión es fundamental el apoyo y promoción de este proceso de desarrollo a nivel físico, social, afectivo, del lenguaje y del pensamiento; a partir de un cuidado cariñoso y sensible a las necesidades del niño o niña, conociendo y acompañando el proceso de desarrollo y protegiéndolo ante los riesgos.
+                td(rowspan="2", style="vertical-align: initial") Acompañar a padres y cuidadores en el fortalecimiento de sus capacidades para la crianza, el cuidado de la salud y protección que promuevan la salud y el desarrollo humano integral de niños, mediante un proceso de construcción colectiva de saberes y prácticas para el cuidado y protección propios, de sus familias y de los entornos.
+              tr
+                td(style="vertical-align: initial") Infancia
                 td(style="background-color: #F0F3FA") Comprende entre los 6 y los 11 años y supone la experiencia de consolidación del proceso de desarrollo que viene configurándose desde la primera infancia y materializa el tránsito a nuevos aprendizajes que resultan de mayores complejidades en el uso o desarrollo de capacidades, habilidades y potencialidades, lo cual redunda en logros progresivos de autonomía e independencia, unido a mayores interacciones y riqueza relacional. Los niños y niñas entre los 6 y los 11 años de edad tienen muchas potencialidades para aprender, cada vez se hacen más conscientes de sus capacidades, por lo que van aumentando su interacción social fuera de la familia. Suelen disfrutar de juegos de reglas y competencia, logran resolver problemas cotidianos de manera independiente y aprenden imitando lo que ven en las personas de su entorno. Este es un momento muy importante para incentivarlos a adoptar pasatiempos que les ayuden a estar más saludables y felices.
               tr
-                td Adolescencia
+                td(style="vertical-align: initial") Adolescencia
                 td(style="background-color: #F0F3FA") La adolescencia se considera el momento vital entre los 12 y los 17 años, es considerada un momento vital caracterizado por profundas transformaciones, cuyo dinamismo trae consigo crisis, conflictos y contradicciones, necesarias para definir la identidad.
                   |
                   br
@@ -318,7 +317,7 @@
                   br
                   br
                   | Los adolescentes están en un momento de su vida en el que se presentan profundas transformaciones biológicas, psicológicas y sociales, muchas de ellas pueden generar crisis, conflictos y contradicciones; pero esencialmente son  cambios positivos, pues no es solamente un periodo de adaptación a cambios corporales, sino una fase de grandes determinaciones hacia una mayor independencia psicológica y social, siendo un momento clave en el proceso de socialización con importantes aprendizajes que permiten fortalecer las interrelaciones personales para distinguirse de otros y adaptarse a la sociedad
-                td a. Reforzar las potencialidades de todos los adolescentes, en lo relacionado con su capacidad de agencia, autonomía y construcción de identidad.
+                td(style="vertical-align: initial") a. Reforzar las potencialidades de todos los adolescentes, en lo relacionado con su capacidad de agencia, autonomía y construcción de identidad.
                   |
                   br
                   br
@@ -332,19 +331,19 @@
                   br
                   | d. Desarrollar capacidades en los padres y cuidadores que les permitan comprender y gestionar los cambios que suceden en la adolescencia, encontrar formas de renegociar las relaciones parento- filiales, resolver los problemas de forma productiva, apoyar el desarrollo de la autonomía e identidad y mantener un vínculo positivo y de apoyo emocional.
               tr
-                td Juventud
+                td(style="vertical-align: initial") Juventud
                 td(style="background-color: #F0F3FA") Comprende la trayectoria entre los 18 y los 28 años, se comprende como un momento de afirmación en el que el escenario social se convierte en el nicho para concretar y estructurar los intereses y propósitos que se han venido vislumbrando y potenciando desde la niñez y que ahora entran en interacción con las condiciones y oportunidades del contexto, adentrándose en la experiencia de asumir la construcción de una vida independiente que se consolida en la edad adulta. Los y las jóvenes se caracterizan por su entusiasmo y energía permanente, es el momento de consolidación de la autonomía intelectual, física, moral, económica, social y cultural, lo que se evidencia en actitudes de seguridad, poder y dominio. La juventud impacta a una generación completa y se expresa con vigor en todos los campos: familiar, educativo, laboral, etc.
-                td Desarrollar capacidades en las y los jóvenes para transformar saberes y prácticas en pro de una vida saludable, relacionadas con el ejercicio de la sexualidad y reproducción libre e informada, la sana convivencia, la educación para el trabajo y el desarrollo humano en los diferentes escenarios durante el curso de vida, la capacidad política y la autonomía para agenciarse y relacionarse con otros/as.
+                td(style="vertical-align: initial") Desarrollar capacidades en las y los jóvenes para transformar saberes y prácticas en pro de una vida saludable, relacionadas con el ejercicio de la sexualidad y reproducción libre e informada, la sana convivencia, la educación para el trabajo y el desarrollo humano en los diferentes escenarios durante el curso de vida, la capacidad política y la autonomía para agenciarse y relacionarse con otros/as.
               tr
-                td Adultez
+                td(style="vertical-align: initial") Adultez
                 td(style="background-color: #F0F3FA") Comprende el momento de vida que transcurre entre los 29 a 59 años.  Se configura en un proceso dinámico, en donde continúa el desarrollo y las personas son capaces de establecer metas y poner en marcha los recursos necesarios para alcanzarlas, configurando sus trayectorias evolutivas personales y aprovechando las oportunidades disponibles en sus contextos. 
                   |
                   br
                   br
                   | En este sentido, es importante subrayar que los patrones de desarrollo adulto no se configuran en algo novedoso, sino en la consolidación de los aprendizajes previos y un perfilamiento cada vez más claro de la individualidad.
-                td Desarrollar capacidades con los adultos para la promoción y mantenimiento de su salud, con la finalidad de aportar al goce efectivo del derecho a la salud, mediante un proceso de construcción colectiva de saberes y prácticas.
+                td(style="vertical-align: initial") Desarrollar capacidades con los adultos para la promoción y mantenimiento de su salud, con la finalidad de aportar al goce efectivo del derecho a la salud, mediante un proceso de construcción colectiva de saberes y prácticas.
               tr
-                td Vejez
+                td(style="vertical-align: initial") Vejez
                 td(style="background-color: #F0F3FA") Se considera persona mayor a toda persona desde los 60 años. En este momento de la vida se disfruta a partir de los aprendizajes y experiencia acumulada. Existen diversos enfoques para comprender el proceso de envejecimiento y las características de la vejez; sin embargo, estos pueden vivirse desde las pérdidas o desde la plenitud, de acuerdo con los efectos acumulados a lo largo de la vida, la confluencia de las oportunidades y los recursos, tanto individuales como generacionales, que afectan el continuo de la vida de cada persona, así como su condición y posición social y su conjugación con la edad, el género, la clase social y el origen étnico, que representan ciertas diferencias en el acceso y disfrute de dichos recursos y oportunidades.
                 td a. Desarrollar capacidades con las personas adultas mayores para la promoción y mantenimiento de su salud, con la finalidad de aportar al goce efectivo del derecho a la salud, mediante un proceso de construcción colectiva de saberes y prácticas.
                   |
@@ -354,7 +353,7 @@
     .row.bg-c23
       .col-12
         .px-5
-          .row
+          .row(data-aos="fade-right")
             .col-12.bg-c1.shadow.mb-4
               .px-4.pt-4.pb-4.pb-lg-0
                 .row.align-items-center
@@ -368,12 +367,12 @@
                           img(src='@/assets/curso/intro/img2.svg', style="width: 40px" ,alt='Texto que describa la imagen')
                       .col
                         p.mb-0 A continuación se presentan los elementos a considerar con familias que cuidan y acompañan a niños y niñas:
-          SlyderC.mb-5(:datos="datosSlyder")
+          SlyderC.mb-5(:datos="datosSlyder")(data-aos="fade-left")
     .row.align-items-center.mb-5
-      .col-lg-5.mb-4.mb-lg-0
+      .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema3/img13.png', style="width: 450px" ,alt='Texto que describa la imagen').m-auto
-      .col-lg-7
+      .col-lg-7(data-aos="fade-left")
         p Es importante considerar para el desarrollo de la EpS grupal para adelantar experiencias pedagógicas dirigidas a este grupo de población el talento humano, que debe reconocer que el aprendizaje de los niños y niñas se da a través de sus actividades cotidianas, caracterizadas por la exploración y el juego, en donde el cuidado y la crianza juegan un papel fundamental.
         .row.mb-3
           .col-12.bg-c2
@@ -385,14 +384,14 @@
                 .col
                   p.mb-0 Los momentos cotidianos o aconteceres (bañarse, dormir, salir a dar un paseo, entre otras), son propicios para generar reflexión en los padres y los cuidadores, para favorecer el cuidado, la participación de los niños en el establecimiento de prácticas de crianza conscientes.
         p.mb-0 Algunas de las motivaciones de padres, madres y cuidadores pueden relacionarse con:
-    figure.mb-5
+    figure.mb-5(data-aos="fade-down")
       img(src='@/assets/curso/tema3/img25.svg', style="width: 750px" ,alt='Texto que describa la imagen').m-auto
-    p.mb-5 Las prácticas de cuidado retoman construcciones híbridas que se concretan de manera temprana en el cuidado de niños y niñas en la primera infancia, tejiendo relatos y prácticas transmitidas intergeneracionalmente, prácticas tradicionales, interacción con agentes de la medicina tradicional, entre otras. Por ello, es clave favorecer el intercambio de saberes, vivencias y experiencias.
+    p.mb-5(data-aos="fade-right") Las prácticas de cuidado retoman construcciones híbridas que se concretan de manera temprana en el cuidado de niños y niñas en la primera infancia, tejiendo relatos y prácticas transmitidas intergeneracionalmente, prácticas tradicionales, interacción con agentes de la medicina tradicional, entre otras. Por ello, es clave favorecer el intercambio de saberes, vivencias y experiencias.
     .row.align-items-center.mb-5
-      .col-lg-4.mb-4.mb-lg-0
+      .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema3/img14.png', style="width: 450px" ,alt='Texto que describa la imagen').m-auto
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         .row.mb-4
           .col-12.bg-c3
             .p-4
@@ -404,7 +403,7 @@
                   p.mb-0 #[b Es clave la gestión por parte de los padres, las madres y los cuidadores para garantizar el documento de identidad, la afiliación al SGSSS y la asignación de IPS; el reconocimiento de la carta de derechos y los mecanismos para exigir la garantía de derechos con énfasis en derechos a la salud.]
         p.mb-0 Los resultados en salud esperados sobre las  capacidades en los padres, las madres y los cuidadores en primera infancia en el desarrollo infantil como prioridad:
     .row.align-items-center.mb-5
-      .col-lg-7.mb-4.mb-lg-0
+      .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
         LineaTiempoD.color-acento-contenido.mb-0
           .row(numero="1" titulo="El cuidado de la alimentación y la nutrición en la primera infancia")
             .col-12
@@ -418,10 +417,10 @@
             .col-12
               p Afrontando sucesos vitales (definidos para la infancia).
               p.mb-0 Cuidado y atenciones en salud (considerando el reconocimiento de atenciones definidas y otras pautas de cuidado – salud bucal, salud mental del cuidador).
-      .col-lg-5
+      .col-lg-5(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema3/img15.png', style="width: 450px" ,alt='Texto que describa la imagen').m-auto
-    .row.mb-5
+    .row.mb-5(data-aos="fade-down")
       .col-12.bg-c2
         .py-4.pe-4
           .row.align-items-center
@@ -430,17 +429,17 @@
                 img(src='@/assets/curso/tema1/img7.svg', style="width: 60px" ,alt='Texto que describa la imagen').m-auto
             .col
               p.mb-0 En los ciclos de EpS grupal para primera infancia se cuenta con la planeación, la ejecución y la evaluación, por ello se proponen algunos  elementos clave para los procesos, por ejemplo:
-    .row.align-items-center.mb-4
+    .row.align-items-center.mb-4(data-aos="fade-down")
       .col-auto.pe-0
         figure
           img(src='@/assets/curso/tema3/img27.svg', style="width: 40px" ,alt='Texto que describa la imagen').m-auto
       .col-10.col-lg-auto.bg-c18
-        p.mb-0 #[b Planeación y concertación de ciclo de educación para la salud en primera infancia (se propone haga parte de la primera sesión del ciclo]
+        p.mb-0 #[b Planeación y concertación de ciclo de educación para la salud en primera infancia (se propone haga parte de la primera sesión del ciclo)]
     .row.align-items-center.mb-5
-      .col-lg-4.mb-4.mb-lg-0
+      .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema3/img16.png', style="width: 450px" ,alt='Texto que describa la imagen').m-auto
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         p Partir de reconocer cómo son los niños y niñas del territorio, así como lo que se sueña para los niños y las niñas, cómo ha sido el apoyo y la atención en el proceso de gestación, cuál es la dinámica de las familias y las prácticas de cuidado y crianza, si existen redes de apoyo y cuidado para los niños y las niñas, si hay preocupaciones en relación a riesgos en salud, entre otras.
         .row
           .col-12.bg-c2
@@ -451,9 +450,9 @@
                     img(src='@/assets/curso/tema1/img7.svg', style="width: 60px" ,alt='Texto que describa la imagen').m-auto
                 .col
                   p.mb-0 Es clave ubicar cuáles son los puntos de llegada de este proceso o ciclo, los resultados a los que se apuesta (capacidades). A partir de este marco se consolida la propuesta para el ciclo (entre 3 a 6 sesiones, idealmente 5 o 6 sesiones, considerando el  momento de planeación y de cierre). Se proponen a partir de los resultados en salud y las capacidades unos núcleos temáticos o temas generadores:
-    .row.justify-content-center.mb--5
+    .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-10
-        PasosA.color-acento-contenido.mb-5(tipo="n")
+        PasosA.color-acento-contenido(tipo="n")
           .row.align-items-center
             .col-md-auto.mb-4
               figure
@@ -490,16 +489,16 @@
             .col-md-auto
               figure
                 img(src='@/assets/curso/tema3/img33.svg', style="width: 60px" ,alt='Texto que describa la imagen').m-auto
-    p.mb-5 Este es únicamente un abanico de posibilidades que intenta centrarse en los sujetos, en las capacidades para el cuidado que favorezcan la salud y el desarrollo integral, dejando de lado la dinámica de desarrollar sesiones temáticas donde puede perderse el centro en los sujetos y la articulación de temas o inquietudes en relación con lo que les pasa a los sujetos.
-    .row.align-items-center.mb-4
+    p.mb-5(data-aos="fade-down") Este es únicamente un abanico de posibilidades que intenta centrarse en los sujetos, en las capacidades para el cuidado que favorezcan la salud y el desarrollo integral, dejando de lado la dinámica de desarrollar sesiones temáticas donde puede perderse el centro en los sujetos y la articulación de temas o inquietudes en relación con lo que les pasa a los sujetos.
+    .row.align-items-center.mb-4(data-aos="fade-down")
       .col-auto.pe-0
         figure
           img(src='@/assets/curso/tema3/img27.svg', style="width: 40px" ,alt='Texto que describa la imagen').m-auto
       .col-10.col-lg-auto.bg-c18
         p.mb-0 #[b Implementación de sesiones]
-    p.mb-5 Se propone desarrollar las sesiones en los momentos propuestos y dinamizar a través de las preguntas orientadoras generales, que pueden ajustarse de acuerdo con cada núcleo temático o tema generador como se muestra a continuación:
+    p.mb-5(data-aos="fade-right") Se propone desarrollar las sesiones en los momentos propuestos y dinamizar a través de las preguntas orientadoras generales, que pueden ajustarse de acuerdo con cada núcleo temático o tema generador como se muestra a continuación:
     .row.justify-content-center.mb-5
-      .col-lg-6
+      .col-lg-6(data-aos="fade-left")
         ImagenInfografica.color-secundario
           template(v-slot:imagen)
             figure
@@ -556,19 +555,19 @@
                         i.fas.fa-check-circle(style="color: #4ADBD1")
                         |
                         p.mb-0 Asociar experiencias y aprendizajes para concertar pautas y prácticas de cuidado de la salud y el desarrollo de niños.
-    .row.align-items-center.mb-4
+    .row.align-items-center.mb-4(data-aos="fade-down")
       .col-auto.pe-0
         figure
           img(src='@/assets/curso/tema3/img27.svg', style="width: 40px" ,alt='Texto que describa la imagen').m-auto
       .col-10.col-lg-auto.bg-c18
         p.mb-0 #[b Evaluación de los resultados o los puntos de llegada]
     .row.align-items-center.mb-5
-      .col-lg-5.mb-4.mb-lg-0
+      .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema3/img18.png', style="width: 450px" ,alt='Texto que describa la imagen').m-auto
-      .col-lg-7
+      .col-lg-7(data-aos="fade-left")
         p.mb-0 Es el establecimiento de itinerarios de salud, decálogos, rutas del cuidado u otras didácticas que permitan reconocer los acuerdos que se han hecho en las diferentes sesiones en relación con las prácticas de cuidado, los mecanismos de gestión de los colectivos, las comunidades y las personas para la garantía de derechos (dependerá de los puntos de llegada previamente establecidos en la sesión de planeación). También se podrá definir un instrumento para valorar las capacidades de cuidado en las cuales se ha incidido.
-    .row
+    .row(data-aos="fade-down")
       .col-12.bg-c3
         .p-4
           .row.align-items-center
@@ -582,10 +581,10 @@
     .titulo-segundo.color-acento-contenido
       h2 3.2 Planteamiento de educación grupal en el curso de preparación para la maternidad y la paternidad
     .row.align-items-center.mb-5
-      .col-lg-4.mb-4.mb-lg-0
+      .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema3/img19.png', style="width: 450px" ,alt='Texto que describa la imagen').m-auto
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         p El curso de preparación para la maternidad y la paternidad es un proceso organizado de educación, realizado de manera interactiva entre el equipo de profesionales de la salud y la mujer con su compañero, sus hijos(as) y su familia o con la persona que ella considere afectivamente más cercana. La intencionalidad es desarrollar capacidades para el cuidado de la salud durante la gestación, el parto y el puerperio. Se plantea que para este curso se pueda contar con un equipo interdisciplinario liderado por enfermería (dada la experiencia y conocimiento en relación con los procesos de cuidado) e idealmente compuesto por psicología, nutrición, terapia física, medicina general y especializada (ginecología y pediatría) con el apoyo de otros profesionales de la salud que se definan de acuerdo con la necesidad.
         .row
           .col-12.bg-c2
@@ -596,7 +595,7 @@
                     img(src='@/assets/curso/tema3/img38.svg', style="width: 30px" ,alt='Texto que describa la imagen').m-auto
                 .col
                   p.mb-0 El curso corresponde como mínimo a 7 sesiones con una duración que oscila entre los 60 y los 90 minutos cada una, divididas así:
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-10.col-md-8.col-lg-3.mb-4.mb-lg-0
         figure
           img(src='@/assets/curso/tema3/img39.svg', style="width: 350px" ,alt='Texto que describa la imagen').m-auto
@@ -606,18 +605,18 @@
       .col-10.col-md-8.col-lg-3
         figure
           img(src='@/assets/curso/tema3/img41.svg', style="width: 350px" ,alt='Texto que describa la imagen').m-auto
-    .row.align-items-center.mb-4
+    .row.align-items-center.mb-4(data-aos="fade-down")
       .col-auto.pe-0
         figure
           img(src='@/assets/curso/tema3/img27.svg', style="width: 40px" ,alt='Texto que describa la imagen').m-auto
       .col-10.col-lg-auto.bg-c18
         p.mb-0 #[b Consideraciones en relación con las mujeres gestantes y sus familias]
-    p.mb-4 Desde el enfoque de curso de vida, la maternidad y la paternidad se conciben como un suceso vital, que implica cambios físicos, psicológicos y emocionales en la mujer gestante que promueven o ponen en riesgo la salud física y mental de la mujer, y la de su hijo/a por nacer. Las condiciones personales, así como las redes de apoyo con las que cuentan las mujeres cuando inician o planean su gestación son determinantes en los resultados de su salud y de sus recién nacidos, dejan una impronta en los siguientes momentos del curso de la vida.
+    p.mb-4(data-aos="fade-right") Desde el enfoque de curso de vida, la maternidad y la paternidad se conciben como un suceso vital, que implica cambios físicos, psicológicos y emocionales en la mujer gestante que promueven o ponen en riesgo la salud física y mental de la mujer, y la de su hijo/a por nacer. Las condiciones personales, así como las redes de apoyo con las que cuentan las mujeres cuando inician o planean su gestación son determinantes en los resultados de su salud y de sus recién nacidos, dejan una impronta en los siguientes momentos del curso de la vida.
     .row.align-items-center.mb-5
-      .col-lg-4.mb-4.mb-lg-0
+      .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema3/img20.png', style="width: 350px" ,alt='Texto que describa la imagen').m-auto
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         p Acompañar el proceso, fortalecer capacidades para el cuidado, garantizar atenciones en salud (incluso desde la preconcepción), son algunas de las intervenciones más costo-efectivas en la primera infancia y favorece el establecimiento de un vínculo seguro. Este proceso debe mantener el centro tanto en la madre y el padre como sujetos de cuidado de niños y niñas; sin perder la perspectiva de abordaje de las y los mismos como sujetos de atención que permita favorecer el apoyo y el acompañamiento en este proceso clave en la trayectoria vital de las mujeres y los hombres, considerando condiciones socioeconómicas y directamente redes de apoyo que favorecen una vivencia digna del proceso y considerando enfoques de género, diferencial y de curso de vida en un marco de derechos.
         .row
           .col-12.bg-c2
@@ -628,28 +627,27 @@
                     img(src='@/assets/curso/tema1/img7.svg', style="width: 60px" ,alt='Texto que describa la imagen').m-auto
                 .col
                   p.mb-0 Los objetivos se plantean en términos de desarrollar capacidades en mujeres gestantes, parejas y familias, para comprender los cambios asociados a la gestación, para promover el cuidado de la salud, detectar y gestionar los riesgos; y las madres, los padres y sus familias para vivir la gestación, el parto, el puerperio y el cuidado del recién nacido de manera sana y psicológicamente armoniosa. Los elementos a considerar para el abordaje de mujeres gestantes y sus familias se presentan en el siguiente video:
-    figure.mb-5
+    figure.mb-5(data-aos="fade-up")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    p.mb-4 Los resultados en salud esperados frente al proceso son:
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/sYE6mwxv2Cw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    p.mb-4(data-aos="fade-right") Los resultados en salud esperados frente al proceso son:
     .row.align-items-center.mb-5
-      .col-lg-8.mb-4.mb-lg-0
+      .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema3/img42.svg', style="width: 950px" ,alt='Texto que describa la imagen').m-auto
-      .col-lg-4
+      .col-lg-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema3/img21.png', style="width: 450px" ,alt='Texto que describa la imagen').m-auto
-    .row.align-items-center.mb-4
+    .row.align-items-center.mb-4(data-aos="fade-down")
       .col-auto.pe-0
         figure
           img(src='@/assets/curso/tema3/img27.svg', style="width: 40px" ,alt='Texto que describa la imagen').m-auto
       .col-10.col-lg-auto.bg-c18
         p.mb-0 #[b Capacidades en las mujeres gestantes, los padres, los familiares, los cuidadores o los acompañantes]
-    p.mb-5 En este marco se proponen capacidades a potenciar y temas propuestos; sin embargo, se retoma una parte de la propuesta, de tal manera que permita ubicar esas dos categorías de capacidades (directas en mujeres gestantes y complementarias en su red de cuidado y apoyo), así como los contenidos o temas propuestos para facilitar la comprensión de la planeación, la implementación y la evaluación de este proceso. En la siguiente tabla puede observar los resultados esperados en salud.
-    .titulo-sexto.color-acento-contenido
-      p.mb-0 #[b Tabla 2]
-      p.mb-0 Resultados, capacidades y contenidos propuestos para el curso de preparación para la maternidad y la paternidad
-    .tabla-a.color-acento-contenido.mb-5 
+    p.mb-5(data-aos="fade-right") En este marco se proponen capacidades a potenciar y temas propuestos; sin embargo, se retoma una parte de la propuesta, de tal manera que permita ubicar esas dos categorías de capacidades (directas en mujeres gestantes y complementarias en su red de cuidado y apoyo), así como los contenidos o temas propuestos para facilitar la comprensión de la planeación, la implementación y la evaluación de este proceso. En la siguiente tabla puede observar los resultados esperados en salud.
+    .titulo-sexto.color-acento-contenido(data-aos="fade-down")
+      p.mb-0 #[b Tabla 2]. Resultados, capacidades y contenidos propuestos para el curso de preparación para la maternidad y la paternidad
+    .tabla-a.color-acento-contenido.mb-5(data-aos="fade-down")
       table
         caption.mt-3 Nota. Tomado de la  Resolución 3280 de 2018.
         thead
@@ -695,31 +693,31 @@
               br
               br
               | Esquema de atenciones individuales en la primera infancia.
-    .row.mb-5
-      .col-12.bg-c1.shadow
+    .row.mb-5(data-aos="fade-right")
+      .col-12.bg-c24.shadow
         .px-4.pt-4.pb-4.pb-lg-0
           .row.align-items-center
-            .col-lg-4.mb-4.mb-lg-0
-              figure
-                img(src='@/assets/curso/tema3/img22.png', style="width: 300px" ,alt='Texto que describa la imagen').m-auto
-            .col-lg-8
+            .col-lg-8.order-2.order-lg-1
               .row
                 .col-auto
                   figure
                     img(src='@/assets/curso/intro/img2.svg', style="width: 40px" ,alt='Texto que describa la imagen')
                 .col
                   p.mb-0 Retomando lo planteado, se proponen elementos clave para el curso de preparación para la maternidad y la paternidad, por ejemplo:
-    .row.align-items-center.mb-4
+            .col-lg-4.mb-4.mb-lg-0.order-1.order-lg-2
+              figure
+                img(src='@/assets/curso/tema3/img22.png', style="width: 300px" ,alt='Texto que describa la imagen').m-auto
+    .row.align-items-center.mb-4(data-aos="fade-down")
       .col-auto.pe-0
         figure
           img(src='@/assets/curso/tema3/img27.svg', style="width: 40px" ,alt='Texto que describa la imagen').m-auto
       .col-10.col-lg-auto.bg-c18
         p.mb-0 #[b Planeación y concertación del curso]
     .row.align-items-center.mb-4
-      .col-lg-4.mb-4.mb-lg-0
+      .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema3/img23.png', style="width: 450px" ,alt='Texto que describa la imagen').m-auto
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         p Partir del reconocimiento de las condiciones y situaciones de las mujeres gestantes, pareja o familia que acompañan en la primera sesión. Valorar cuáles pueden ser esas condiciones en relación al cuidado a las que quisieran llegar, cómo quisieran estar y sentirse durante esta gestación, qué ilusiones y también qué      inquietudes están presentes en este proceso como mujeres y como familias; para tener una base que interpele con los resultados en salud planteados para el curso, los cuales pueden comunicarse de manera sencilla para que se entienda más fácilmente lo importante de las prácticas de cuidado que no dependen únicamente de la mujer, el fortalecer ese apoyo que se brinda desde la familia y la comunidad, la necesidad de identificar signos de alarma para a su vez activar mecanismos comunitarios e institucionales de respuesta y finalmente, la importancia de los vínculos y el cuidado en la primera infancia, especialmente en ese periodo del primer mes. Desde allí, es posible plantear esas capacidades que se quieren potenciar durante el curso como proceso.
         .row
           .col-12.bg-c2
@@ -731,7 +729,7 @@
                 .col
                   p.mb-0 Es necesario favorecer el desarrollo de las sesiones como se plantea, considerando que el periodo es corto y que los primeros meses son fundamentales para la incorporación de dichas prácticas de cuidado. De esta manera es posible proyectar unos núcleos temáticos que permitan articular temáticas propuestas debido a las necesidades y expectativas de las y los participantes. Se sugieren algunos núcleos temáticos:
     .row.align-items-center.mb-5
-      .col-lg-8.mb-4.mb-lg-0
+      .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
         ul.lista-ul--separador
           li.d-flex
             i.fas.fa-check-circle(style="color: #4ADBD1")
@@ -761,21 +759,20 @@
             i.fas.fa-check-circle(style="color: #4ADBD1")
             |
             p.mb-0 Cuidado del binomio madre e hijo luego del nacimiento y en el primer mes de vida del recién nacido.
-      .col-lg-4
+      .col-lg-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema3/img24.png', style="width: 450px" ,alt='Texto que describa la imagen').m-auto
-    .row.align-items-center.mb-4
+    .row.align-items-center.mb-4(data-aos="fade-down")
       .col-auto.pe-0
         figure
           img(src='@/assets/curso/tema3/img27.svg', style="width: 40px" ,alt='Texto que describa la imagen').m-auto
       .col-10.col-lg-auto.bg-c18
         p.mb-0 #[b Implementación de sesiones]
-    p.mb-5 Se propone desarrollar las sesiones en los momentos propuestos y dinamizar a través de las preguntas orientadoras generales que pueden ajustarse de acuerdo con cada núcleo temático o tema generador, a continuación puede observar las preguntas pedagógicas con base  en el momento de formación:
+    p.mb-5(data-aos="fade-right") Se propone desarrollar las sesiones en los momentos propuestos y dinamizar a través de las preguntas orientadoras generales que pueden ajustarse de acuerdo con cada núcleo temático o tema generador, a continuación puede observar las preguntas pedagógicas con base  en el momento de formación:
     .row.justify-content-center.mb-5
-      .col-lg-10
+      .col-lg-10(data-aos="fade-up")
         .titulo-sexto.color-acento-contenido
-          p.mb-0 #[b Tabla 3]
-          p.mb-0 Preguntas pedagógicas marco didáctico
+          p.mb-0 #[b Tabla 3]. Preguntas pedagógicas marco didáctico
         .tabla-a.color-acento-contenido
           table
             thead
@@ -786,7 +783,7 @@
             tbody
               tr
                 td(style="vertical-align: initial") Dinámica de apropiación
-                td(style="vertical-align: initial") Central
+                td(style="vertical-align: initial") Inicial
                 td(style="vertical-align: initial") Orientadoras: reconocimiento de saberes previos.
                   |
                   br
@@ -794,7 +791,7 @@
                   | ¿Qué esperan del espacio?, ¿cuál es la red de apoyo y cuidado con la que cuentan?, ¿qué inquietudes tienen respecto al proceso de gestación así como frente al momento del parto y el posparto?
               tr(style="background-color: #F0F3FA")
                 td(style="vertical-align: initial") Campos de enseñanza
-                td(style="vertical-align: initial") Inicial
+                td(style="vertical-align: initial") Central
                 td Aprendizaje: diálogo e intercambio de saberes.
                   |
                   br
@@ -808,36 +805,36 @@
                   br 
                   br 
                   | Asociar experiencias y aprendizajes para concertar pautas y prácticas de cuidado durante y después de la gestación para la madre y el recién nacido.
-    .row.align-items-center.mb-4
+    .row.align-items-center.mb-4(data-aos="fade-down")
       .col-auto.pe-0
         figure
           img(src='@/assets/curso/tema3/img27.svg', style="width: 40px" ,alt='Texto que describa la imagen').m-auto
       .col-10.col-lg-auto.bg-c18
         p.mb-0 #[b Evaluación de los resultados o los puntos de llegada]
     .row.align-items-center
-      .col-lg-5.mb-4.mb-lg-0
+      .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema3/img25.png', style="width: 450px" ,alt='Texto que describa la imagen').m-auto
-      .col-lg-7
+      .col-lg-7(data-aos="fade-left")
         p.mb-0 Establecimiento de los itinerarios de salud, los decálogos, las rutas del cuidado u otras didácticas que permitan reconocer los acuerdos que se han hecho en las diferentes sesiones en relación a  las prácticas de cuidado, los mecanismos de gestión de los colectivos, las comunidades y las personas para la garantía de derechos (dependerá de los puntos de llegada previamente establecidos en la sesión de planeación). También se podrá definir un instrumento para valorar las capacidades de cuidado en las cuales se ha incidido.
     Separador
     #t_3_3
     .titulo-segundo.color-acento-contenido
       h2 3.3 Planteamiento de educación para la salud en entornos
     .row.align-items-center.mb-5
-      .col-lg-7.mb-4.mb-lg-0
+      .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
         p.mb-0 La educación para la salud colectiva tiene como objetivo favorecer los procesos de desarrollo tanto de las personas como de las familias y comunidades, empoderar a los sujetos, consolidar procesos de cuidado (de sí, con otros y con el entorno), fortalecer la capacidad de afrontamiento, agencia y fortalecer los vínculos, redes y relaciones para el cuidado y el desarrollo. Está definido como un proceso que debe desarrollarse como mínimo dos ciclos al año por grupo poblacional o colectivo priorizado en el entorno, donde cada ciclo está compuesto por 9 a 12 sesiones con el mismo grupo (cada sesión de 2 a 3 horas). En el caso de una zona rural dispersa se realizará mínimo un ciclo al año por grupo poblacional o colectivo priorizado; si el área rural es de difícil acceso o queda a más de cuatro horas de la cabecera municipal se podrá desarrollar un ciclo al año.
-      .col-lg-5
+      .col-lg-5(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema3/img26.png', style="width: 450px" ,alt='Texto que describa la imagen').m-auto
-    .row.align-items-center.mb-4
+    .row.align-items-center.mb-4(data-aos="fade-down")
       .col-auto.pe-0
         figure
           img(src='@/assets/curso/tema3/img27.svg', style="width: 40px" ,alt='Texto que describa la imagen').m-auto
       .col-10.col-lg-auto.bg-c18
         p.mb-0 #[b Consideraciones con relación a los sujetos en los entornos y objetivos de la EpS colectiva]
-    p.mb-5 La Política de Atención Integral en Salud como desarrollo de la Ley Estatutaria coloca a los sujetos en el centro, reconoce a  los sujetos de derecho, sujetos en contexto, sujetos activos y vinculados a una red de relaciones donde tiene lugar su trayectoria. El entorno es un lugar de encuentro donde se construyen y dinamizan relaciones y vínculos que por demás afianzan y favorecen o inciden en el desarrollo, la salud y el cuidado. Por lo tanto, la apuesta al abordar un entorno es mantener la mirada en los sujetos que en él se desarrollan.
-    .row.mb-5
+    p.mb-5(data-aos="fade-right") La Política de Atención Integral en Salud como desarrollo de la Ley Estatutaria coloca a los sujetos en el centro, reconoce a  los sujetos de derecho, sujetos en contexto, sujetos activos y vinculados a una red de relaciones donde tiene lugar su trayectoria. El entorno es un lugar de encuentro donde se construyen y dinamizan relaciones y vínculos que por demás afianzan y favorecen o inciden en el desarrollo, la salud y el cuidado. Por lo tanto, la apuesta al abordar un entorno es mantener la mirada en los sujetos que en él se desarrollan.
+    .row.mb-5(data-aos="fade-down")
       .col-12.bg-c3
         .p-4
           .row.align-items-center
@@ -853,16 +850,16 @@
                 .col-auto.pe-4
                   p.mb-0 #[b (Kaplan 2002, p. 146)]
     .row.align-items-center.mb-5
-      .col-lg-4.mb-4.mb-lg-0
+      .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema3/img27.png', style="width: 450px" ,alt='Texto que describa la imagen').m-auto
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         p.mb-0 El entorno comunitario se comprende como los espacios donde se da la dinámica social de las personas y los colectivos dispuestos en grupos de base, redes sociales y comunitarias, así como también, los espacios de relación, encuentro y desplazamiento, como son las infraestructuras, bienes y servicios dispuestos en el espacio público (Decreto 1504 de 1998). Implica la dinámica que se establece en espacios abiertos, caracterizados por el libre acceso (plazas, plazoletas, parques, zonas de veredas, vías, entre otros) y de espacio, ubicados en infraestructura de acceso permitido a los cuales la comunidad atribuye un valor paisajístico, político, histórico, cultural y/o religioso (bibliotecas, ludotecas, casa de la cultura, museos, teatros, templos, malocas, estadios, escenarios de participación, entre otros) (MinSalud, 2018). En este marco, lo relacional es el factor de conformación del sujeto colectivo, lo que les da sentido a los procesos de educación para la salud, más allá de la definición de un espacio físico.
-    .row.mb-5
+    .row.mb-5(data-aos="fade-down")
       .col-12.bg-c8
         .p-4
           p.text-center.mb-0 #[b Un entorno comunitario fortalecido y empoderado se orienta a:]
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-left")
       .col-8.col-lg-4.col-lg.mb-4.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/tema3/img45.svg' alt='AvatarTop')
@@ -874,21 +871,21 @@
           img(src='@/assets/curso/tema3/img46.svg' alt='AvatarTop')
           .tarjeta.color-primario
             .p-4
-              p.mb-0 Fortalecer los procesos de movilización social, el desarrollo y articulación de redes comunitarias, la participación social en la vigilancia de la gestión pública.
+              p.text-white.mb-0 Fortalecer los procesos de movilización social, el desarrollo y articulación de redes comunitarias, la participación social en la vigilancia de la gestión pública.
       .col-8.col-lg-4.col-lg
         .tarjeta-avatar
           img(src='@/assets/curso/tema3/img47.svg' alt='AvatarTop')
           .tarjeta.color-acento-contenido
             .p-4
               p.mb-0 Promover las capacidades de la persona y la familia para el ejercicio de la ciudadanía, actuando frente al reconocimiento y exigibilidad de los derechos y la participación activa en los espacios de decisión.
-    .row.align-items-center.mb-4
+    .row.align-items-center.mb-4(data-aos="fade-down")
       .col-auto.pe-0
         figure
           img(src='@/assets/curso/tema3/img27.svg', style="width: 40px" ,alt='Texto que describa la imagen').m-auto
       .col-10.col-lg-auto.bg-c18
         p.mb-0 #[b Resultados, capacidades, núcleos temáticos a desarrollar de la ruta integral de promoción y mantenimiento de la salud]
-    p.mb-5 Los resultados, las capacidades a desarrollar, los contenidos de la educación y la comunicación para la salud en el marco del Plan de Intervenciones Colectivas (PIC) propone que las sesiones se realicen con conjuntos de personas que habitan un entorno, bien sea en:
-    .row.mb-5
+    p.mb-5(data-aos="fade-right") Los resultados, las capacidades a desarrollar, los contenidos de la educación y la comunicación para la salud en el marco del Plan de Intervenciones Colectivas (PIC) propone que las sesiones se realicen con conjuntos de personas que habitan un entorno, bien sea en:
+    .row.mb-5(data-aos="fade-left")
       .col-lg-4.mb-4.mb-lg-0
         .tarjeta-avatar-b
           .tarjeta-avatar-b__img
@@ -910,7 +907,7 @@
           .tarjeta.tarjeta--gris.shadow
             .p-4
               p.mb-0 Con colectivos que comparten un momento del curso de vida (por ejemplo, niños y niñas de un jardín infantil, población privada de la libertad, personas adultas mayores de un barrio, etc.).
-    .row.mb-5
+    .row.mb-5(data-aos="fade-down")
       .col-12.bg-c2
         .py-4.pe-4
           .row.align-items-center
@@ -920,10 +917,9 @@
             .col
               p.mb-0 En cualquiera de los casos, el proceso de educación para la salud en el marco del PIC deberá responder a las necesidades o condiciones identificadas en el territorio y las prioridades establecidas en el plan territorial de salud. A continuación se presentan algunos ejemplos de algunos resultados, capacidades a desarrollar y contenidos de la educación y comunicación para la salud en el marco del Plan de Intervenciones Colectivas:
     .row.justify-content-center.mb-5
-      .col-lg-10
+      .col-lg-10(data-aos="fade-down")
         .titulo-sexto.color-acento-contenido
-          p.mb-0 #[b Tabla 4]
-          p.mb-0 Ejemplo de contenidos para generar hábitos y prácticas de cuidado para el mantenimiento de su salud
+          p.mb-0 #[b Tabla 4]. Ejemplo de contenidos para generar hábitos y prácticas de cuidado para el mantenimiento de su salud
         .tabla-a.color-acento-contenido
           table
             thead(style="background-color: #F0F3FA")
@@ -978,12 +974,11 @@
                           i.fas.fa-check-circle(style="color: #4ADBD1")
                           |
                           p.mb-0 Fortalecimiento del proyecto de vida.
-    p.mb-5 A continuación se presenta un ejemplo de sesiones educativas para los entornos de vida:
+    p.mb-5(data-aos="fade-right") A continuación se presenta un ejemplo de sesiones educativas para los entornos de vida:
     .row.justify-content-center.mb-5
-      .col-lg-10
+      .col-lg-10(data-aos="fade-down")
         .titulo-sexto.color-acento-contenido
-          p.mb-0 #[b Tabla 5]
-          p.mb-0 Ejemplo de prácticas para el cuidado y protección de los entornos
+          p.mb-0 #[b Tabla 5]. Ejemplo de prácticas para el cuidado y protección de los entornos
         .tabla-a.color-acento-contenido
           table
             thead(style="background-color: #F0F3FA")
@@ -1102,12 +1097,11 @@
                           i.fas.fa-check-circle(style="color: #4ADBD1")
                           |
                           p.mb-0 Conocimiento e implementación de las tecnologías de producción limpia, el consumo responsable, las buenas prácticas operativas, entre otras, de acuerdo con la actividad económica informal desarrollada.
-    p.mb-5 En la siguiente tabla se presenta un ejemplo de sesiones para conocer los derechos y los deberes en salud:
+    p.mb-5(data-aos="fade-right") En la siguiente tabla se presenta un ejemplo de sesiones para conocer los derechos y los deberes en salud:
     .row.justify-content-center.mb-5
-      .col-lg-10
+      .col-lg-10(data-aos="fade-down")
         .titulo-sexto.color-acento-contenido
-          p.mb-0 #[b Tabla 6]
-          p.mb-0 Ejemplo de reconocer los deberes y sus derechos en salud
+          p.mb-0 #[b Tabla 6]. Ejemplo de reconocer los deberes y sus derechos en salud
         .tabla-a.color-acento-contenido
           table
             thead(style="background-color: #F0F3FA")
@@ -1190,16 +1184,16 @@
                           i.fas.fa-check-circle(style="color: #4ADBD1")
                           |
                           p.mb-0 Abogacía y movilización social.
-    p.mb-5 A continuación se realiza una ejemplificación del proceso de educación para la salud:
-    .row.mb-5
+    p.mb-5(data-aos="fade-right") A continuación se realiza una ejemplificación del proceso de educación para la salud:
+    .row.mb-5(data-aos="fade-down")
       .col-12.bg-c8
         .p-4
           p.text-center.mb-0 #[b Definición del tema]: cuidado intercultural de la salud en los primeros mil días de vida.
     .row.align-items-center.mb-5
-      .col-lg-4.mb-4.mb-lg-0
+      .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema3/img28.png', style="width: 450px" ,alt='Texto que describa la imagen').m-auto
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         p En el marco del proyecto #[b “Orientaciones pedagógicas, metodológicas, técnicas y operativas para el desarrollo de capacidades en redes de apoyo comunitarias, para el cuidado de la salud materna e infantil en redes comunitarias. Tejiendo espacios para el cuidado intercultural de la salud en los primeros mil días de vida”], desarrollado por el Fondo Colombia en Paz (2021), se realiza una propuesta de EpS en el marco de un proceso de fortalecimiento de redes sociales y comunitarias al que se le propone como centro el cuidado de la salud materno infantil. A partir de esta experiencia que articula las apuestas de construcción de redes con los aportes de los procesos de educación para la salud, se ejemplifica este proceso en el entorno comunitario.  Para esto se proponen resultados, núcleos temáticos y algunos desarrollos, articulados a un ciclo de educación para la salud, en el marco del cuidado de la salud materna.
         .row
           .col-12.bg-c2
@@ -1210,11 +1204,11 @@
                     img(src='@/assets/curso/tema1/img7.svg', style="width: 60px" ,alt='Texto que describa la imagen').m-auto
                 .col
                   p.mb-0 El tema general del ciclo educativo es el  cuidado intercultural de la salud en los primeros mil días de vida. El primer paso para la planificación del proceso de educación para la salud es establecer cuáles son los resultados que se quieren alcanzar o a los cuales se quiere contribuir con el proceso de educación para la salud; estos resultados están definidos bien sea en la Resolución 3280 de promoción y mantenimiento de la salud o bien en las rutas de riesgos de los eventos priorizados. En el siguiente video se presenta el ejemplo del Fondo Colombia en Paz:
-    figure.mb-5
+    figure.mb-5(data-aos="fade-up")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    p.mb-5 A continuación se ejemplifica el desarrollo de una de las sesiones o de uno de los núcleos temáticos, para esto se elige el núcleo temático “Cuidado preconcepcional y la construcción social de feminidades y masculinidades para la garantía de los derechos”.
-    .row.mb-5
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/KJWI90X7_84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    p.mb-5(data-aos="fade-right") A continuación se ejemplifica el desarrollo de una de las sesiones o de uno de los núcleos temáticos, para esto se elige el núcleo temático “Cuidado preconcepcional y la construcción social de feminidades y masculinidades para la garantía de los derechos”.
+    .row.mb-5(data-aos="fade-down")
       .col-12.bg-c3
         .p-4
           .row.align-items-center
@@ -1224,10 +1218,9 @@
             .col
               p #[b Para este núcleo temático se propone un objetivo específico y el tema, que permiten una reflexión en conjunto con los individuos, familias, comunidades y el facilitador sobre los roles de género asociados a la preconcepción que derive en prácticas autónomas reproductivas, partiendo de los derechos de la mujer, como se presenta en la siguiente tabla:]
     .row.justify-content-center.mb-5
-      .col-lg-10
+      .col-lg-10(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido
-          p.mb-0 #[b Tabla 7]
-          p.mb-0 Objetivos del  cuidado preconcepcional y la construcción social de feminidades y masculinidades
+          p.mb-0 #[b Tabla 7]. Objetivos del  cuidado preconcepcional y la construcción social de feminidades y masculinidades
         .tabla-a.color-acento-contenido
           table
             caption.mt-3 Nota. Tomado del Fondo Colombia en Paz (2021).
@@ -1270,7 +1263,7 @@
                           i.fas.fa-check-circle(style="color: #4ADBD1")
                           |
                           p.mb-0 Preparación para una gestación saludable, prácticas del cuidado que disminuyen riesgos.
-    .row.mb-5
+    .row.mb-5(data-aos="fade-down")
       .col-12.bg-c2
         .py-4.pe-4
           .row.align-items-center
@@ -1280,10 +1273,9 @@
             .col
               p.mb-0 Momentos de formación, de acuerdo con los desarrollos del FCP (2021) para el desarrollo de este núcleo temático se definen cuatro momentos para el desarrollo de la sesión de educación para la salud con duración de tres a cuatro horas.  Desde el FCP (2021) proponen, por ejemplo, el siguiente desarrollo del núcleo temático elegido, que se observa en la siguiente tabla:
     .row.justify-content-center.mb-5
-      .col-lg-10
+      .col-lg-10(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
-          p.mb-0 #[b Tabla 8]
-          p.mb-0 Cuidado preconcepcional y la construcción social de feminidades y masculinidades
+          p.mb-0 #[b Tabla 8]. Cuidado preconcepcional y la construcción social de feminidades y masculinidades
         .tabla-a.color-acento-contenido
           table
             thead
@@ -1355,7 +1347,7 @@
                       p Cotidianas la relevancia de ser hombre y mujer y la relación directa con el deseo de ser mamá o papá (rol reproductivo) (FCP, 2021).
                       p ¿Cómo y quién toma las decisiones frente a la gestación?
                       p Se espera que en la respuesta se resalte la decisión en pareja, en comunidad si es el caso, indagar desde el enfoque diferencial la vivencia y el reconocimiento de los derechos sexuales y reproductivos de los hombres y de las mujeres.
-    .row.mb-5
+    .row.mb-5(data-aos="fade-right")
       .col-12.bg-c3
         .p-4
           .row.align-items-center
@@ -1381,7 +1373,7 @@
                   i.fas.fa-check-circle(style="color: #4ADBD1")
                   |
                   p.mb-0 Para más información tomar en cuenta la bibliografía reseñada a lo largo del curso.
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-left")
       .col-lg-10
         .tarjeta.color-primario.p-3
           .row.justify-content-around.align-items-center
@@ -1390,7 +1382,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h3.text-white.mb-1 ANEXO 1. MOMENTOS DE CURSO DE VIDA
+                  h3.text-white.mb-1 Anexo 1. Momentos de curso de vida
                   p.text-white.text-small Para profundizar sobre las necesidades y características para el cuidado de la salud por momentos de curso de vida, se invita a leer el Anexo 1.
                 .col-sm-auto
                   a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/anexo1.pdf')" target="_blank")
