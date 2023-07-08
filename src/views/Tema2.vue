@@ -87,7 +87,7 @@
           .col-12
             .p-5
               figure
-                img(src='@/assets/curso/tema2/img7.svg', style="width: 950px" ,alt='Muestra tres grandes preguntas que se deben dar en el dialogo de saberes: 1) ¿Quién de los que están en la sesión ha tenido una experiencia o conocido de una experiencia en relación con el tema abordado? 2) ¿Cómo se resolvió? 3) ¿Qué pasos identificaron?').m-auto
+                img(src='@/assets/curso/tema2/img7.svg', style="width: 950px" ,alt='Muestra tres grandes preguntas que se deben dar en el dialogo de saberes: 1) ¿Quién de los que están en la sesión ha tenido una experiencia o conocido de una experiencia en relación con el tema abordado? 2) ¿Cómo se resolvió? 3) ¿Qué pasos identificaron?. Es necesario conectar los ejercicios con historias de vida, con las expeiencias cotidianas de las personas con las cuales se está desarrollando la actividad.').m-auto
     .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema2/img4.png')})`}"
