@@ -82,7 +82,7 @@
                   figure.mt-1
                     img(src='@/assets/curso/tema2/img2.svg', style="width: 20px" ,alt='Texto que describa la imagen')
                 .col
-                  p.mb-0 Durante el proceso de fortalecimiento de capacidades es importante iniciar los procesos desde la escucha, ¿qué esperan, qué quieren, qué saben?, eso es un verdadero proceso de comunicación dialógica; es importante permitir que la gente hable de sus experiencias y testimonios, donde sean tomados en cuenta como punto base de la implementación de la EpS.
+                  p.mb-0 Durante el proceso de fortalecimiento de capacidades es importante iniciar los procesos desde la escucha, ¿qué esperan?, qué quieren?, ¿qué saben?, eso es un verdadero proceso de comunicación dialógica; es importante permitir que la gente hable de sus experiencias y testimonios, donde sean tomados en cuenta como punto base de la implementación de la EpS.
         .row(data-aos="fade-left")
           .col-12
             .p-5

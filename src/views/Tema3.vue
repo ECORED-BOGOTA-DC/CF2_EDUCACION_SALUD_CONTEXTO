@@ -173,7 +173,7 @@
     AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-up")
       .row(titulo="Núcleos temáticos base para el proceso de educación para la salud")
         .col-12
-          p.mb-5 Para la definición de núcleos temáticos o temas generadores se debe considerar moldear referencias que puedan mantener el centro en los sujetos y que permitan un abordaje integral de los sujetos, articulando resultados en términos de capacidades, con temas priorizados de acuerdo con cada momento del curso de vida, así como en los diferentes entornos, incorporando aquellos que sean relevantes para las personas y considerando la relación de algunas situaciones con ejes dinamizadores transversales.  A continuación se presentan en qué consiste cada uno de estos ejes:
+          p.mb-5 Para la definición de núcleos temáticos o temas generadores se debe considerar moldear referencias que puedan mantener el centro en los sujetos y que permitan un abordaje integral de los sujetos, articulando resultados en términos de capacidades, con temas priorizados de acuerdo con cada momento del curso de vida, así como en los diferentes entornos, incorporando aquellos que sean relevantes para las personas y considerando la relación de algunas situaciones con ejes dinamizadores transversales. A continuación, se presentan en qué consiste cada uno de estos ejes:
           figure.mb-5
             img(src='@/assets/curso/tema3/img21.svg', style="width: 1000px" ,alt='Texto que describa la imagen').m-auto
           ul.lista-ul--separador.mb-4
@@ -266,7 +266,7 @@
                       img(src='@/assets/curso/tema1/img7.svg', style="width: 60px" ,alt='Texto que describa la imagen').m-auto
                   .col
                     p.mb-0 Los ciclos o las sesiones serán implementadas por uno o varios profesionales, técnicos y tecnólogos de las Ciencias de la Salud, salud ambiental, Ciencias Sociales y Humanas, con el apoyo de auxiliares del equipo de salud con las competencias para desarrollar pedagógicamente el proceso. En el caso de comunidades o pueblos indígenas podrán ser desarrolladas por el personal de salud propio de dichos pueblos, así mismo, para otros grupos étnicos en posible involucrar otros perfiles para apoyar el desarrollo de dichos procesos. Es recomendable que se cuente con el apoyo de un profesional en pedagogía, psicopedagogía o psicología educativa.
-          p.mb-0 A continuación se desarrollan  algunos aspectos para planear, desarrollar y evaluar procesos de educación para la salud bajo la modalidad grupal por curso de vida, preparación para la maternidad y la paternidad (ambas intervenciones programáticas  que deben hacerse a toda la población y a las mujeres, familias durante el proceso de gestación); así como en la modalidad colectiva (como tecnología del plan de intervenciones colectivas que puede ser desarrollada en los territorios).
+          p.mb-0 A continuación, se desarrollan algunos aspectos para planear, desarrollar y evaluar procesos de educación para la salud bajo la modalidad grupal por curso de vida, preparación para la maternidad y la paternidad (ambas intervenciones programáticas  que deben hacerse a toda la población y a las mujeres, familias durante el proceso de gestación); así como en la modalidad colectiva (como tecnología del plan de intervenciones colectivas que puede ser desarrollada en los territorios).
     Separador
     #t_3_1
     .titulo-segundo.color-acento-contenido
@@ -366,7 +366,7 @@
                         figure
                           img(src='@/assets/curso/intro/img2.svg', style="width: 40px" ,alt='Texto que describa la imagen')
                       .col
-                        p.mb-0 A continuación se presentan los elementos a considerar con familias que cuidan y acompañan a niños y niñas:
+                        p.mb-0 A continuación, se presentan los elementos a considerar con familias que cuidan y acompañan a niños y niñas:
           SlyderC.mb-5(:datos="datosSlyder")(data-aos="fade-left")
     .row.align-items-center.mb-5
       .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
@@ -768,7 +768,7 @@
           img(src='@/assets/curso/tema3/img27.svg', style="width: 40px" ,alt='Texto que describa la imagen').m-auto
       .col-10.col-lg-auto.bg-c18
         p.mb-0 #[b Implementación de sesiones]
-    p.mb-5(data-aos="fade-right") Se propone desarrollar las sesiones en los momentos propuestos y dinamizar a través de las preguntas orientadoras generales que pueden ajustarse de acuerdo con cada núcleo temático o tema generador, a continuación puede observar las preguntas pedagógicas con base  en el momento de formación:
+    p.mb-5(data-aos="fade-right") Se propone desarrollar las sesiones en los momentos propuestos y dinamizar a través de las preguntas orientadoras generales que pueden ajustarse de acuerdo con cada núcleo temático o tema generador, a continuación, puede observar las preguntas pedagógicas con base  en el momento de formación:
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="fade-up")
         .titulo-sexto.color-acento-contenido
@@ -823,7 +823,7 @@
       h2 3.3 Planteamiento de educación para la salud en entornos
     .row.align-items-center.mb-5
       .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
-        p.mb-0 La educación para la salud colectiva tiene como objetivo favorecer los procesos de desarrollo tanto de las personas como de las familias y comunidades, empoderar a los sujetos, consolidar procesos de cuidado (de sí, con otros y con el entorno), fortalecer la capacidad de afrontamiento, agencia y fortalecer los vínculos, redes y relaciones para el cuidado y el desarrollo. Está definido como un proceso que debe desarrollarse como mínimo dos ciclos al año por grupo poblacional o colectivo priorizado en el entorno, donde cada ciclo está compuesto por 9 a 12 sesiones con el mismo grupo (cada sesión de 2 a 3 horas). En el caso de una zona rural dispersa se realizará mínimo un ciclo al año por grupo poblacional o colectivo priorizado; si el área rural es de difícil acceso o queda a más de cuatro horas de la cabecera municipal se podrá desarrollar un ciclo al año.
+        p.mb-0 La educación para la salud colectiva tiene como objetivo favorecer los procesos de desarrollo tanto de las personas como de las familias y comunidades, empoderar a los sujetos, consolidar procesos de cuidado (de sí, con otros y con el entorno), fortalecer la capacidad de afrontamiento, agencia y fortalecer los vínculos, redes y relaciones para el cuidado y el desarrollo. Está definido como un proceso que debe desarrollarse como mínimo dos ciclos al año por grupo poblacional o colectivo priorizado en el entorno, donde cada ciclo está compuesto por 9 a 12 sesiones con el mismo grupo (cada sesión de 2 a 3 horas). En el caso de una zona rural dispersa, se realizará mínimo un ciclo al año por grupo poblacional o colectivo priorizado; si el área rural es de difícil acceso o queda a más de cuatro horas de la cabecera municipal, se podrá desarrollar un ciclo al año.
       .col-lg-5(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema3/img26.png', style="width: 450px" ,alt='Texto que describa la imagen').m-auto
@@ -915,7 +915,7 @@
               figure
                 img(src='@/assets/curso/tema1/img7.svg', style="width: 60px" ,alt='Texto que describa la imagen').m-auto
             .col
-              p.mb-0 En cualquiera de los casos, el proceso de educación para la salud en el marco del PIC deberá responder a las necesidades o condiciones identificadas en el territorio y las prioridades establecidas en el plan territorial de salud. A continuación se presentan algunos ejemplos de algunos resultados, capacidades a desarrollar y contenidos de la educación y comunicación para la salud en el marco del Plan de Intervenciones Colectivas:
+              p.mb-0 En cualquiera de los casos, el proceso de educación para la salud en el marco del PIC deberá responder a las necesidades o condiciones identificadas en el territorio y las prioridades establecidas en el plan territorial de salud. A continuación, se presentan algunos ejemplos de algunos resultados, capacidades a desarrollar y contenidos de la educación y comunicación para la salud en el marco del Plan de Intervenciones Colectivas:
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="fade-down")
         .titulo-sexto.color-acento-contenido
@@ -974,7 +974,7 @@
                           i.fas.fa-check-circle(style="color: #4ADBD1")
                           |
                           p.mb-0 Fortalecimiento del proyecto de vida.
-    p.mb-5(data-aos="fade-right") A continuación se presenta un ejemplo de sesiones educativas para los entornos de vida:
+    p.mb-5(data-aos="fade-right") A continuación, se presenta un ejemplo de sesiones educativas para los entornos de vida:
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="fade-down")
         .titulo-sexto.color-acento-contenido
@@ -1184,7 +1184,7 @@
                           i.fas.fa-check-circle(style="color: #4ADBD1")
                           |
                           p.mb-0 Abogacía y movilización social.
-    p.mb-5(data-aos="fade-right") A continuación se realiza una ejemplificación del proceso de educación para la salud:
+    p.mb-5(data-aos="fade-right") A continuación, se realiza una ejemplificación del proceso de educación para la salud:
     .row.mb-5(data-aos="fade-down")
       .col-12.bg-c8
         .p-4
@@ -1207,7 +1207,7 @@
     figure.mb-5(data-aos="fade-up")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/KJWI90X7_84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    p.mb-5(data-aos="fade-right") A continuación se ejemplifica el desarrollo de una de las sesiones o de uno de los núcleos temáticos, para esto se elige el núcleo temático “Cuidado preconcepcional y la construcción social de feminidades y masculinidades para la garantía de los derechos”.
+    p.mb-5(data-aos="fade-right") A continuación, se ejemplifica el desarrollo de una de las sesiones o de uno de los núcleos temáticos, para esto se elige el núcleo temático “Cuidado preconcepcional y la construcción social de feminidades y masculinidades para la garantía de los derechos”.
     .row.mb-5(data-aos="fade-down")
       .col-12.bg-c3
         .p-4

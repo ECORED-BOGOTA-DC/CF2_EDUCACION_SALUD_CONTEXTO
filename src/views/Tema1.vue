@@ -40,7 +40,7 @@
                     figure
                       img(src='@/assets/curso/tema1/img4.svg', style="width: 100px" ,alt='Texto que describa la imagen').m-auto
                   .col
-                    p.mb-0 #[b Uno de los objetivos de la comunidad esta relacionado con los procesos de movilización de diversas acciones, para la resolución de necesidades a través de diferentes mecanismos que le permiten garantizar efectividad y coordinación en torno a dichas necesidades.]
+                    p.mb-0 #[b Uno de los objetivos de la comunidad está relacionado con los procesos de movilización de diversas acciones, para la resolución de necesidades a través de diferentes mecanismos que le permiten garantizar efectividad y coordinación en torno a dichas necesidades.]
           p.mb-5(data-aos="fade-down") La familia se considera como una estructura social que se constituye a partir de un proceso que genera vínculos de consanguinidad o afinidad entre sus miembros. Por lo tanto, si bien la familia puede surgir como un fenómeno natural producto de la decisión libre de dos personas, lo cierto es que son las manifestaciones de solidaridad, fraternidad, apoyo, cariño y amor, lo que la estructuran y le brindan cohesión a la institución. En este marco, la política de apoyo y fortalecimiento a las familias las concibe como:
           .row.justify-content-center.mb-4(data-aos="fade-left")
             .col-md-8.col-lg.m-2

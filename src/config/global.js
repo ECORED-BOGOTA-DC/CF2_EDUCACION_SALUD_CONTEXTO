@@ -150,13 +150,6 @@ export default {
     {
       tema: 'Planteamiento de educación para la salud en entornos',
       referencia:
-        'MinSalud. (2022). <i>Modos, condiciones y estilos de vida saludables</i>. MinSalud.',
-      tipo: 'Artículo',
-      link: 'https://www.minsalud.gov.co/salud/Paginas/habitos-saludables.aspx',
-    },
-    {
-      tema: 'Planteamiento de educación para la salud en entornos',
-      referencia:
         'Núñez, A. (s.f.). UNFPA - <i>Sexualidad con sentido - Proyectos de vida</i> [video]. YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/TCrpOEXFFNA',
