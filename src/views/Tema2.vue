@@ -21,10 +21,10 @@
                     img(src='@/assets/curso/intro/img2.svg', style="width: 40px" ,alt='Texto que describa la imagen')
                 .col
                   p.mb-0 Los resultados en salud definidos en relación con los procesos de educación para la salud reconocen un espectro amplio de apuestas en término del ejercicio de derechos (por ejemplo, en relación con derechos sexuales y derechos reproductivos); establecimiento de relaciones sanas y constructivas, capacidades de cuidado, de agencia (como capacidad transformadora), de empoderamiento para afrontar sucesos vitales; habilidades sociales y emocionales; y modificación de entornos.  Es importante tener presente las siguientes premisas definidas a partir del enfoque epistemológico y pedagógico:
-    .row.bg-c7.mb-4
+    .row.bg-c7.mb-5
       .col-12
-        .row
-          .col-12.bg-c8(data-aos="fade-down")
+        .row.justify-content-center
+          .col-12.bg-c8.mb-5(data-aos="fade-down")
             .p-4
               .row.align-items-center
                 .col-auto.pe-0
@@ -32,7 +32,9 @@
                     img(src='@/assets/curso/tema2/img2.svg', style="width: 20px" ,alt='Texto que describa la imagen')
                 .col
                   p.mb-0 Como dinamizador o facilitador de estos procesos es necesario partir de reconocer:
-          .col-12.py-5(data-aos="fade-right")
+          .col-lg-9.px-5(data-aos="fade-right")
+            .titulo-sexto.color-acento-contenido.mb-4
+              p.mb-0 #[b Figura 1]. Reconocimientos
             figure
               img(src='@/assets/curso/tema2/img3.svg', style="width: 950px" ,alt='Muestra las tres premisas definidas a partir del enfoque epistemológico y pedagógico: 01. Prácticas de cuidado, tradicionales, algunas relacionadas en grupos étnicos, las cuales en ocasiones están unidas al ejercicio de agentes de la medicina tradicional. 02. Concepciones y saberes frente a la salud, la enfermedad, la vida y la muerte. 03. Brechas en la garantía de derecho.').m-auto
     .row.align-items-center.mb-5
@@ -82,10 +84,12 @@
                   figure.mt-1
                     img(src='@/assets/curso/tema2/img2.svg', style="width: 20px" ,alt='Texto que describa la imagen')
                 .col
-                  p.mb-0 Durante el proceso de fortalecimiento de capacidades es importante iniciar los procesos desde la escucha, ¿qué esperan?, qué quieren?, ¿qué saben?, eso es un verdadero proceso de comunicación dialógica; es importante permitir que la gente hable de sus experiencias y testimonios, donde sean tomados en cuenta como punto base de la implementación de la EpS.
-        .row(data-aos="fade-left")
-          .col-12
+                  p.mb-0 Durante el proceso de fortalecimiento de capacidades es importante iniciar los procesos desde la escucha, ¿qué esperan?, ¿qué quieren?, ¿qué saben?, eso es un verdadero proceso de comunicación dialógica; es importante permitir que la gente hable de sus experiencias y testimonios, donde sean tomados en cuenta como punto base de la implementación de la EpS.
+        .row.justify-content-center(data-aos="fade-left")
+          .col-lg-10
             .p-5
+              .titulo-sexto.color-acento-contenido.mb-4
+                p.mb-0 #[b Figura 2]. Preguntas
               figure
                 img(src='@/assets/curso/tema2/img7.svg', style="width: 950px" ,alt='Muestra tres grandes preguntas que se deben dar en el dialogo de saberes: 1) ¿Quién de los que están en la sesión ha tenido una experiencia o conocido de una experiencia en relación con el tema abordado? 2) ¿Cómo se resolvió? 3) ¿Qué pasos identificaron?. Es necesario conectar los ejercicios con historias de vida, con las expeiencias cotidianas de las personas con las cuales se está desarrollando la actividad.').m-auto
     .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
